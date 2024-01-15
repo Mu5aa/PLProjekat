@@ -1,0 +1,45 @@
+2024.01.15 17:55:15 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/Desktop/LudoPL/target, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala, /Users/mustafaajanovic/Desktop/LudoPL/project, /Users/mustafaajanovic/Desktop/LudoPL/.vscode, /Users/mustafaajanovic/Desktop/LudoPL/.metals, /Users/mustafaajanovic/Desktop/LudoPL/.bsp, /Users/mustafaajanovic/Desktop/LudoPL/.idea, /Users/mustafaajanovic/Desktop/PLProjekat-1, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util' for client Visual Studio Code 1.85.1.
+2024.01.15 17:55:17 INFO  Running List(/Users/mustafaajanovic/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala)
+2024.01.15 17:55:17 WARN  Build server is not auto-connectable.
+2024.01.15 17:55:17 INFO  Attempting to connect to the build server...
+2024.01.15 17:55:17 INFO  Running BSP server List(/Users/mustafaajanovic/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/.scala-build/ide-options-v2.json, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala)
+2024.01.15 17:55:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/.metals/bsp.trace.json or /Users/mustafaajanovic/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.01.15 17:55:17 INFO  Running List(/Users/mustafaajanovic/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util)
+2024.01.15 17:55:17 INFO  Attempting to connect to the build server...
+2024.01.15 17:55:17 INFO  Running BSP server List(/Users/mustafaajanovic/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/.scala-build/ide-options-v2.json, /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util)
+2024.01.15 17:55:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/.metals/bsp.trace.json or /Users/mustafaajanovic/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.01.15 17:55:18 INFO  time: Connected to build server in 1.32s
+2024.01.15 17:55:18 INFO  time: Connected to build server in 0.65s
+2024.01.15 17:55:18 INFO  Connected to Build server: scala-cli v1.1.0
+2024.01.15 17:55:18 INFO  Connected to Build server: scala-cli v1.1.0
+2024.01.15 17:55:18 INFO  compiling scala_bd2c96d2de (6 scala sources)
+2024.01.15 17:55:18 INFO  compiling util_bd2c96d2de (1 scala source)
+2024.01.15 17:55:18 INFO  time: compiled Util_bd2c96d2de in 0.65s
+2024.01.15 17:55:18 INFO  compiling util_bd2c96d2de (1 scala source)
+2024.01.15 17:55:18 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.01.15 17:55:18 INFO  time: compiled scala_bd2c96d2de in 0.76s
+2024.01.15 17:55:18 INFO  compiling scala_bd2c96d2de (6 scala sources)
+2024.01.15 17:55:20 INFO  time: compiled Util_bd2c96d2de in 0.42s
+2024.01.15 17:55:20 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.01.15 17:55:20 INFO  time: compiled scala_bd2c96d2de in 0.46s
+2024.01.15 17:55:21 INFO  time: indexed workspace in 2.49s
+2024.01.15 17:55:21 INFO  time: indexed workspace in 2.49s
+2024.01.15 17:55:39 INFO  shutting down Metals
+2024.01.15 17:55:39 INFO  Shut down connection with build server.
+2024.01.15 17:55:39 INFO  Shut down connection with build server.
+2024.01.15 17:55:49 INFO  logging to files /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/.metals/metals.log,/Users/mustafaajanovic/Desktop/PLProjekat-1/.metals/metals.log,/Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/.metals/metals.log
+2024.01.15 17:55:49 INFO  Shutting down server
+2024.01.15 17:55:49 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1589)
+
+2024.01.15 17:55:49 INFO  Exiting server

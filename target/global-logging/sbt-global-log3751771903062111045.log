@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(7dd09c52-d88f-4766-bbf1-c09f17dcd17d), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\User\Desktop\Programming Languages Project\covjece-ne-ljuti-se\target\scala-2.13\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\Desktop\Programming Languages Project\covjece-ne-ljuti-se\src\main\scala\Main.scala:50:180: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m    println("\u001b[34mBS1\u001b[0m" + "\u001b[34mBS2\u001b[0m" + "   " + "   " + "\u001b[37m O \u001b[0m" + "\u001b[34mBH1\u001b[0m" + "\u001b[37m O \u001b[0m" + "   " + "   " + "\u001b[31mRS1\u001b[0m[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\Desktop\Programming Languages Project\covjece-ne-ljuti-se\src\main\scala\Main.scala:59:5: '}' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Jan 12, 2024, 11:54:50 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

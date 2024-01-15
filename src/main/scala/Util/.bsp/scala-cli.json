@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/mustafaajanovic/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/.scala-build/ide-options-v2.json",
+    "/Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util"
+  ],
+  "version": "1.1.0",
+  "bspVersion": "2.1.0-M7",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

@@ -1,0 +1,153 @@
+2024.01.14 16:30:30 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/CovjeceNeLjutiSe' for client Visual Studio Code 1.85.1.
+2024.01.14 16:30:30 WARN  Build server is not auto-connectable.
+2024.01.14 16:32:06 INFO  Shutting down server
+2024.01.14 16:32:06 INFO  shutting down Metals
+2024.01.14 16:32:06 INFO  Exiting server
+2024.01.14 16:35:46 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/CovjeceNeLjutiSe' for client Visual Studio Code 1.85.1.
+2024.01.14 16:35:47 WARN  Build server is not auto-connectable.
+2024.01.14 16:35:48 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Board.scala
+2024.01.14 16:35:50 INFO  no build target found for /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Board.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.14 16:35:51 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Game.scala
+2024.01.14 16:35:52 INFO  time: code lens generation in 2.58s
+2024.01.14 16:35:52 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Board.scala
+2024.01.14 16:36:03 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Main.scala
+2024.01.14 16:36:14 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Piece.scala
+2024.01.14 16:36:16 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 17:13:37 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Main.scala
+2024.01.14 17:13:37 INFO  Shutting down server
+2024.01.14 17:13:37 INFO  shutting down Metals
+2024.01.14 17:13:37 INFO  Exiting server
+2024.01.14 20:16:01 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/CovjeceNeLjutiSe' for client Visual Studio Code 1.85.1.
+2024.01.14 20:16:01 WARN  Build server is not auto-connectable.
+2024.01.14 20:16:01 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 20:16:03 INFO  no build target found for /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala. Using presentation compiler with project's scala-library version: 3.3.1
+Jan 14, 2024 8:16:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2024.01.14 20:16:05 INFO  time: code lens generation in 1.03s
+2024.01.14 20:16:07 INFO  Shutting down server
+2024.01.14 20:16:07 INFO  shutting down Metals
+2024.01.14 20:16:07 INFO  Exiting server
+2024.01.14 20:34:13 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/CovjeceNeLjutiSe' for client Visual Studio Code 1.85.1.
+2024.01.14 20:34:14 WARN  Build server is not auto-connectable.
+2024.01.14 20:34:14 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+Jan 14, 2024 8:34:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2024.01.14 20:34:16 INFO  no build target found for /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.14 20:34:17 INFO  time: code lens generation in 2.23s
+2024.01.14 20:34:17 INFO  time: code lens generation in 1.15s
+2024.01.14 20:37:36 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Main.scala
+2024.01.14 20:37:37 INFO  Shutting down server
+2024.01.14 20:37:37 INFO  shutting down Metals
+2024.01.14 20:37:37 INFO  Exiting server
+2024.01.14 21:08:29 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/CovjeceNeLjutiSe' for client Visual Studio Code 1.85.1.
+2024.01.14 21:08:30 WARN  Build server is not auto-connectable.
+2024.01.14 21:08:30 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Main.scala
+2024.01.14 21:08:32 INFO  no build target found for /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.14 21:08:33 INFO  time: code lens generation in 1.9s
+2024.01.14 21:08:36 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 21:08:37 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Board.scala
+2024.01.14 21:08:39 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Util/CircularArray.scala
+2024.01.14 21:09:00 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Board.scala
+2024.01.14 21:09:44 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Piece.scala
+2024.01.14 21:09:52 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 21:10:15 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Util/CircularArray.scala
+2024.01.14 21:21:27 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/build.sbt
+2024.01.14 21:21:27 WARN  Could not find semantic tokens for: file:///Users/mustafaajanovic/CovjeceNeLjutiSe/build.sbt
+2024.01.14 21:21:28 WARN  Could not find semantic tokens for: file:///Users/mustafaajanovic/CovjeceNeLjutiSe/build.sbt
+2024.01.14 21:29:01 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Piece.scala
+2024.01.14 21:29:31 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Util/CircularArray.scala
+2024.01.14 21:30:26 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 21:31:34 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Piece.scala
+2024.01.14 21:31:40 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Player.scala
+2024.01.14 21:31:47 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Piece.scala
+2024.01.14 21:33:41 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/src/main/scala/Game.scala
+Jan 14, 2024 9:36:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 196
+Jan 14, 2024 9:36:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 202
+Jan 14, 2024 9:43:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+2024.01.14 21:46:30 WARN  no build target for: /Users/mustafaajanovic/CovjeceNeLjutiSe/build.sbt
+2024.01.14 21:46:30 WARN  Could not find semantic tokens for: file:///Users/mustafaajanovic/CovjeceNeLjutiSe/build.sbt
+2024.01.14 21:49:47 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/Desktop/LudoPL' for client Visual Studio Code 1.85.1.
+2024.01.14 21:49:47 WARN  Build server is not auto-connectable.
+2024.01.14 21:49:47 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:49:49 INFO  no build target found for /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.14 21:49:51 INFO  time: code lens generation in 2.49s
+2024.01.14 21:49:51 INFO  time: code lens generation in 1.44s
+2024.01.14 21:51:03 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:51:45 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:51:52 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:54:13 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:55:24 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 21:56:52 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Piece.scala
+2024.01.14 21:57:00 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Player.scala
+2024.01.14 21:57:56 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Player.scala
+2024.01.14 21:57:58 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Piece.scala
+Jan 14, 2024 9:58:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+2024.01.14 21:58:16 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Player.scala
+2024.01.14 21:58:40 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.14 22:02:12 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.14 22:02:12 INFO  Shutting down server
+2024.01.14 22:02:12 INFO  shutting down Metals
+2024.01.14 22:02:12 INFO  Exiting server
+2024.01.15 17:18:04 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/Desktop/LudoPL' for client Visual Studio Code 1.85.1.
+2024.01.15 17:18:05 WARN  Build server is not auto-connectable.
+2024.01.15 17:18:05 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.15 17:18:07 INFO  no build target found for /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.15 17:18:09 INFO  time: code lens generation in 2.79s
+2024.01.15 17:18:09 INFO  time: code lens generation in 1.75s
+2024.01.15 17:20:57 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:20:58 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Main.scala
+2024.01.15 17:20:59 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Player.scala
+2024.01.15 17:21:19 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Piece.scala
+2024.01.15 17:21:24 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/CircularArray.scala
+2024.01.15 17:21:28 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:21:32 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/CircularArray.scala
+Jan 15, 2024 5:30:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 406
+2024.01.15 17:33:05 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Main.scala
+2024.01.15 17:33:08 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Player.scala
+2024.01.15 17:33:09 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Piece.scala
+2024.01.15 17:34:12 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Util/CircularArray.scala
+2024.01.15 17:34:41 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:35:32 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:36:42 WARN  Using indexes to guess the definition of Piece
+2024.01.15 17:36:42 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+Jan 15, 2024 5:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+2024.01.15 17:40:05 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.15 17:43:56 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Board.scala
+2024.01.15 17:46:31 WARN  Using indexes to guess the definition of Player
+2024.01.15 17:46:31 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:49:00 INFO  Shutting down server
+2024.01.15 17:49:00 INFO  shutting down Metals
+2024.01.15 17:49:00 INFO  Exiting server
+2024.01.15 17:49:00 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1589)
+
+2024.01.15 17:50:08 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/Desktop/LudoPL' for client Visual Studio Code 1.85.1.
+2024.01.15 17:50:09 WARN  Build server is not auto-connectable.
+2024.01.15 17:50:09 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:50:11 INFO  no build target found for /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.15 17:50:12 INFO  time: code lens generation in 1.88s
+2024.01.15 17:50:38 INFO  Shutting down server
+2024.01.15 17:50:38 INFO  shutting down Metals
+2024.01.15 17:50:38 INFO  Exiting server
+2024.01.15 17:54:10 INFO  Started: Metals version 1.2.0 in folders '/Users/mustafaajanovic/Desktop/LudoPL' for client Visual Studio Code 1.85.1.
+2024.01.15 17:54:10 WARN  Build server is not auto-connectable.
+2024.01.15 17:54:11 WARN  no build target for: /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala
+2024.01.15 17:54:12 INFO  no build target found for /Users/mustafaajanovic/Desktop/LudoPL/src/main/scala/Game.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.15 17:54:13 INFO  time: code lens generation in 1.09s
+2024.01.15 17:54:13 INFO  time: code lens generation in 1.98s

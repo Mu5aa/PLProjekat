@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(fbccdf4b-0819-4674-bd8b-54375d0a239d), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\User\Desktop\Programming Languages Project\CovjeceNeLjutiSe\target\scala-2.13\classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Jan 13, 2024, 9:54:27 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
